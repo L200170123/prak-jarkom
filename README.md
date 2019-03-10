@@ -1,2 +1,2 @@
 # prak-jarkom
-Praktikum Jaringan Komputer
+Praktikum Jaringan Komputer / C
